@@ -2,3 +2,6 @@
 
 # SQLite Database
 database.*
+
+# Env variables
+.env
